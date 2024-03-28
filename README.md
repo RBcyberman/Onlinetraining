@@ -18,7 +18,7 @@ Cyborg Security launched an innovative, interactive threat-hunting workshop focu
 - <b>Oracle VM Virtualbox</b> 
 - <b>Open Virtualization Format Archive (.ova) file provided by Cyborg Security</b>
 
-<h2>Configuration walk-through:</h2>
+<h2>Training Session Brief:</h2>
 
 <p align="center">
 First, I had to perform some configuration tasks, such as importing the OVA file, modifying the network settings of the type 2 hypervisor to bridge mode, identifying my IP address, and then downloading the lab log data before proceeding.<br/>
